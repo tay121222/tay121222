@@ -9,7 +9,7 @@ Hello! I'm Enoch Taylor, a passionate and detail-oriented software developer wit
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/taylor-enoch-6176177a/)
 - 🐦 X: [@tay121222](https://twitter.com/tay121222)
 - 🔗 [Linktree](https://linktr.ee/tay121222)
-- 🔗 [Linktree](https://linktr.ee/xtechitsupport)
+- 🔗 [Linktree XTech](https://linktr.ee/xtechitsupport)
 
 ## Skills
 
