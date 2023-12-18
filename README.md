@@ -21,9 +21,9 @@ Hello! I'm Enoch Taylor, a passionate and detail-oriented software developer wit
 
 ## Projects
 
-### [ImageMatch Desktop]
+### ImageMatch Desktop
 
-[ImageMatch Desktop is a desktop application designed for jewelry inventory management and image matching]
+ImageMatch Desktop is a desktop application designed for jewelry inventory management and image matching
 
 - Repository: [https://github.com/tay121222/ImageMatch_Desktop]
 - Demo: [https://youtu.be/eLuShP1bgns?si=UMsc3Eqoup19Uugv]
