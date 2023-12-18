@@ -5,13 +5,15 @@
 Hello! I'm Enoch Taylor, a passionate and detail-oriented software developer with interest in IT and cybersecurity. I believe in the power of technology to solve real-world problems and enhance people's lives.
 
 - 🌐 [Portfolio Website](https://xtechsoftwarelib.com/)
-- 📧 Email: tay121222@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/taylor-enoch-6176177a/)
+- 📧 Email: tay121222@gmail.com
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/taylor-enoch-6176177a/)
 - 🐦 X: [@tay121222](https://twitter.com/tay121222)
+- 🔗 [Linktree](https://linktr.ee/tay121222)
+- 🔗 [Linktree](https://linktr.ee/xtechitsupport)
 
 ## Skills
 
-- **Programming Languages:** Python, Java, C#
+- **Programming Languages:** Python, Java, C#, VB.Net
 - **Web Development:** HTML, CSS, JavaScript
 - **Database Management:** SQL
 - **Tools & Technologies:** Git, Visual Studio Code, etc.
